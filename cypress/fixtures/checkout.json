@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Carlos Eduardo",
+    "lastName": "Marino Junior",
+    "company": "Empresa X",
+    "email": "hcarloseduardo@example.com",
+    "zipCode": "0000000",
+    "address": "Rua das Flores, 123"
+  },
+  {
+    "firstName": "Maria Silva",
+    "lastName": "Souza",
+    "company": "Empresa Y",
+    "email": "maria.silva@example.com",
+    "zipCode": "1111111",
+    "address": "Avenida Central, 456"
+  },
+  {
+    "firstName": "João Pereira",
+    "lastName": "Oliveira",
+    "company": "Empresa Z",
+    "email": "joao.pereira@example.com",
+    "zipCode": "2222222",
+    "address": "Praça das Palmeiras, 789"
+  }
+]
